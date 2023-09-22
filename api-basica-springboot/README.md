@@ -1,3 +1,4 @@
+<pre>
 .................................
 Criar:
 .................................
@@ -39,4 +40,5 @@ INSERT INTO usuarios (nome, senha) VALUES ('Fernanda', 'minhasenha123');
 INSERT INTO usuarios (nome, senha) VALUES ('Lucas', 'senha321');
 
 ------------------------------------------------
+</pre>
 
